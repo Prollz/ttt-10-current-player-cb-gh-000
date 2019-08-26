@@ -4,5 +4,5 @@ def turn_count(board)
     if char != ' '
       counter += 1
     end
-    counter 
+    counter
 end
